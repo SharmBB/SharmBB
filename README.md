@@ -8,3 +8,5 @@
 - 📫 How to reach me: ssharmilan15@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost 10 hours for coding
+
+img src ="https://github-readme-stats.vercel.app/api?username=SharmBB&&show_icons=true"
