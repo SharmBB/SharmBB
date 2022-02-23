@@ -11,7 +11,9 @@
 
   <img src ="https://github-readme-stats.vercel.app/api?username=SharmBB&&show_icons=true">
   
-  <img background-position: top left ;src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmBB&theme=dark&hide_langs_below=1">
+  <br>
+  
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmBB&theme=dark&hide_langs_below=1">
 
 
                                                       
