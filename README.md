@@ -7,4 +7,4 @@
 - 💬 Ask me about flutter 
 - 📫 How to reach me: ssharmilan15@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spent almost 10 hours for working
+- ⚡ Fun fact: I spent almost 10 hours for coding
